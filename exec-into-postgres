@@ -1,0 +1,1 @@
+dc exec postgres bash -c "psql -U retool_internal_user -d hammerhead_production"

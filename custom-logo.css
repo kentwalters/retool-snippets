@@ -1,0 +1,10 @@
+.sidebar-header {
+  background-image: url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png);
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  visibility: hidden
+}
